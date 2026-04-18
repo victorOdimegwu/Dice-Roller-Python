@@ -1,2 +1,2 @@
 # Dice-Roller-Python
-3mtt Deeptech_ready / WesOnline mentorship project
+3mtt deeptech_ready / WesOnline mentorship project
