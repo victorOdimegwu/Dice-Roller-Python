@@ -1,4 +1,9 @@
+# Dice Roller Project
+# A simple Python script to roll two dice and calculate the sum.
 
+# Team Members
+# Victor Odimegwu 
+# Divine Tom
 
 import random
 
